@@ -1,4 +1,4 @@
-# _Adidas Sales Overview Analysis_
+# Adidas Sales Overview Analysis
 In this project we will build an Adidas Sales Overview Analysis Dashboard by Region, we will use MySQL and Power BI tools which are currently being used in the market and there is a very high demand for these particular tools. We will use some advanced functions, some advanced Dax functions, conditional filtering and conditional formatting, and also action filters. Adidas sales data by Region in this project is obtained from Kaggle.com.
 
 ## Steps in Project
@@ -21,7 +21,7 @@ In this project we will build an Adidas Sales Overview Analysis Dashboard by Reg
 - Power BI
 
 ## Business Requirement
-Design a dynamic Power BI Dashboard that tracks key metrics -Sales, Profit, and Quantity- across five regions that is Midwest, Northeast, South, Southeast, West. The Dashboard should allow users to filter by year and dynamically switch between the three metrics (Sales, Profit, and Quantity). Additionally, it should include the comparison with the previous year's (PY) sales for the selected year.
+Our clients wants us to create a Adidas sales by region dashboard so that they can have insight on the below requirements. They wants us to design a dynamic Power BI Dashboard that tracks key metrics -Sales, Profit, and Quantity- across five regions that is Midwest, Northeast, South, Southeast, West. The Dashboard should allow users to filter by year and dynamically switch between the three metrics (Sales, Profit, and Quantity). Additionally, it should include the comparison with the previous year's (PY) sales for the selected year.
 ### KPI's Requirements
 ##### Midwest Region
 1. Display Sales, Profit, and Quantity as per the selected year filter.
